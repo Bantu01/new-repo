@@ -1,2 +1,2 @@
 # new-repo
-this is just s test repo for leaning the forking process
+this is just a test repo for leaning the forking process
